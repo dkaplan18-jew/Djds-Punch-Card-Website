@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --djds-red: #C8102E;
+}
+
+body { -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
+.shadow-inner { box-shadow: 0 6px 18px rgba(10,10,10,0.06); }
